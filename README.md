@@ -2,8 +2,8 @@
 A lexer, parser and documentation generator toolkit.
 
 # TODO:
-- [ ] documentationinput
-- [ ] syntax, parser, and internal representation
+- [ ] documentation
+- [ ] input syntax, parser, and internal representation
   - [ ] basic system for reading multiple files
   - [ ] cfg ebnf production parser
   - [ ] regex parser
