@@ -12,15 +12,18 @@ A lexer, parser and documentation generator toolkit.
   - [ ] code for escaping strings, turning our identifiers into legal names in targets (name mangling), etc.
   - [ ] backend module typesbackend driver
 - [ ] backends
-  - [ ] flex
-  - [ ] bison
-  - [ ] alex
-  - [ ] happy
-  - [ ] parser-tools/lex
-  - [ ] parser-tools/yacc
-  - [ ] brag
-  - [ ] ocamlyacc
-  - [ ] ocamllex
-  - [ ] menhir
-  - [ ] antlr
-  - [ ] ply
+  - [ ] Documentation
+    - [ ] HTML
+  - [ ] Functional
+    - [ ] flex
+    - [ ] bison
+    - [ ] alex
+    - [ ] happy
+    - [ ] parser-tools/lex
+    - [ ] parser-tools/yacc
+    - [ ] brag
+    - [ ] ocamlyacc
+    - [ ] ocamllex
+    - [ ] menhir
+    - [ ] antlr
+    - [ ] ply
