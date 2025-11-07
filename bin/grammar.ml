@@ -1,5 +1,3 @@
-open Sexplib.Std
-
 type markup =
   | String of string
 
